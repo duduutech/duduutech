@@ -1,4 +1,4 @@
-## Olá, eu sou o Eduardo Lima!
+## 👨‍💻 Eduardo Lima!
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) compartilhando minha jornada e aprendendo sobre tecnologia<br/>
 - 🎓Estudante da Faculdade de Informática e Administração Paulista - FIAP<br/>
