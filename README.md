@@ -8,7 +8,7 @@
   
 ## Sobre mim
 
-**`Desenvolvedor FullStack`**
+**`Futuro - Desenvolvedor FullStack`**
 
 Me chamo Eduardo Lima de Souza, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Faculdade de Informática e Administração Paulista (FIAP) e estou compartilhando minha jornada de aprendizado na área de tecnologia. Tenho grande interesse em desenvolvimento de software e estou atualmente me aprofundando em Java, Python, programação web, engenharia de software, automação com IA e chatbots. Estou em busca de oportunidades de estágio ou projetos que me permitam adquirir experiência prática, evoluir minhas habilidades e crescer profissionalmente na área de tecnologia e compartilho minhas experiências através do meu LINKEDIN "[ Eduardo Lima - duduutech](https://www.linkedin.com/in/duduutech/)"
 
