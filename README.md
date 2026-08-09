@@ -119,7 +119,7 @@ Um algoritmo de apoio à tomada de decisão em operações de resgate e gerencia
 
 ### Sistema de Loja — POO em Java
 
-Pipeline automatizado para ingestão, processamento, treinamento e disponibilização de modelos de Machine Learning.
+
 
 | Métrica | Detalhes |
 |:---|:---|
@@ -130,11 +130,7 @@ Pipeline automatizado para ingestão, processamento, treinamento e disponibiliza
 | **Impacto** | Aplicação prática dos principais conceitos de Programação Orientada a Objetos |
 | **Repositório** | [GitHub](https://github.com/duduutech/loja_virtual) |
 
-### Engenharia
 
-O projeto aplica os principais fundamentos da **Programação Orientada a Objetos em Java**, utilizando classes, objetos, construtores, encapsulamento e métodos para organizar as responsabilidades da aplicação.
-
-A estrutura utiliza o relacionamento entre as classes **Produto**, **Fornecedor** e **Loja**, além de validação de dados, atributos privados, métodos `get` e `set`, métodos estáticos e `LocalDate` para registro das informações.
 
 </details>
 
