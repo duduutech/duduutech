@@ -24,7 +24,7 @@ Atualmente estudo:
 - Projetos de Extensão
 - Formação Social e Sustentabilidade
 
-Mais sobre mim no [LinkedIn](https://www.linkedin.com/in/duduutech/)
+
 <!-- Github stats from -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
