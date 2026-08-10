@@ -84,6 +84,23 @@ Programa em Python que resolve um problema comum em cadastros: dados inconsisten
 </details>
 
 <details>
+<summary><strong>Simulador de Crédito Consignado</strong></summary>
+
+### Simulador de Crédito Consignado CLT
+
+Projeto individual de estudo de desenvolvimento backend — Simulação de concessão de crédito consignado para trabalhadores CLT, aplicando regras de elegibilidade bancária e cálculo financeiro.
+
+| Métrica | Detalhes |
+|:---|:---|
+| **Stack** | Java 21 • Spring Boot 3/4 • Spring Data JPA • PostgreSQL • JUnit 5 |
+| **Minha contribuição** | Levantamento de requisitos e regras de negócio baseados em referências públicas do mercado financeiro (Itaú Unibanco), modelagem de dados rica com JPA e implementação da arquitetura em camadas (`Controller`, `Service`, `Repository`, `Model`). |
+| **O que faz** | Avalia a elegibilidade do cliente (idade, vínculo CLT, margem consignável de 35%) e simula parcelas utilizando a Tabela Price, calculando juros totais, valor máximo disponível e CET. |
+| **Arquitetura** | Layered Architecture (Camadas) • RESTful API • Mapeamento Objeto-Relacional (ORM) com Hibernate • Tratamento de precisão monetária com `BigDecimal`. |
+| **O que aprendi** | Mapeamento de entidades JPA/Hibernate, convenções de código para aplicações financeiras (uso de `BigDecimal` e `LocalDate`), estruturação de arquitetura desacoplada e versionamento incremental com Git. |
+| **Repositório** | [GitHub](https://github.com/duduutech/simulador-credito-consignado) |
+</details>
+
+<details>
 <summary><strong>Sistema de Priorização de Resgate</strong></summary>
 
 ### Site Front-End
@@ -101,22 +118,7 @@ Projeto em grupo (Global Solution FIAP) — front-end de um sistema de apoio à 
 
 </details>
 
-<details>
-<summary><strong>Loja Virtual</strong></summary>
 
-### Sistema de Loja — POO em Java
-
-Projeto da disciplina de Domain Driven Design, praticando os fundamentos de Programação Orientada a Objetos.
-
-| Métrica | Detalhes |
-|:---|:---|
-| **Stack** | Java • `LocalDate` |
-| **O que faz** | Modela o relacionamento entre as classes `Produto`, `Fornecedor` e `Loja` |
-| **Conceitos aplicados** | Encapsulamento de atributos com `private`, métodos `get`/`set`, construtores, validação básica de dados |
-| **O que aprendi** | Composição entre classes, encapsulamento, uso de `LocalDate` para registro de datas |
-| **Repositório** | [GitHub](https://github.com/duduutech/loja_virtual) |
-
-</details>
 
 ---
 
