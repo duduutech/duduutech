@@ -31,16 +31,12 @@
 
 # Sobre
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP, no 2º semestre. Estou construindo minha base em lógica de programação, orientação a objetos (Java) e desenvolvimento web, aplicando o que aprendo em sala em projetos práticos, documentados e explicáveis.
+Estudante de ADS na FIAP | Java, Python e SQL | Buscando Estágio em Desenvolvimento Backend / Dados com foco em Inteligência Artificial, Engenharia de Dados e Backend. Atualmente, atuo também como 𝗚𝗼𝗼𝗴𝗹𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗔𝗺𝗯𝗮𝘀𝘀𝗮𝗱𝗼𝗿, conectando a comunidade acadêmica a iniciativas de tecnologia e inovação.
 
-Tenho interesse especial em:
-
-- Desenvolvimento back-end e front-end
-- Banco de dados e modelagem de sistemas
-- Inteligência artificial aplicada (ainda em fase inicial de estudo)
-- Boas práticas de engenharia de software
-
-Estou no começo da jornada — cada projeto abaixo representa uma etapa real de aprendizado, não um produto pronto.
+-  𝗜𝗔 𝗲 𝗖𝗵𝗮𝘁𝗯𝗼𝘁𝘀: Conceitos e aplicações de Inteligência Artificial e desenvolvimento de assistentes virtuais.
+-  𝗗𝗮𝗱𝗼𝘀 𝗲 𝗕𝗮𝗻𝗰𝗼 𝗱𝗲 𝗗𝗮𝗱𝗼𝘀 𝗥𝗲𝗹𝗮𝗰𝗶𝗼𝗻𝗮𝗹: Modelagem, estruturação e manipulação de dados em SQL (Building Relational Database).
+-  𝗟𝗼́𝗴𝗶𝗰𝗮 𝗲 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗮𝗰̧𝗮̃𝗼 𝗰𝗼𝗺 𝗣𝘆𝘁𝗵𝗼𝗻: Raciocínio computacional voltado para resolução de problemas e análise de dados. 
+-  𝗗𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗶𝗺𝗲𝗻𝘁𝗼 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗲𝗺 𝗝𝗮𝘃𝗮: Aplicação de Orientação a Objetos (POO), herança, polimorfismo e arquitetura de software (Domain Driven Design).
 
 ---
 
