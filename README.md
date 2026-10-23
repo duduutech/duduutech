@@ -27,15 +27,11 @@
 
 ##
 
-<!-- Experience -->
-
-<!-- Experience -->
-<!-- Experience -->
-
+<!-- Experience --> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=30&duration=0.1&pause=1000&color=B59DFF&center=false&repeat=false&width=435&lines=Experience)](https://git.io/typing-svg)
 
 <div align="left" width=200>
-<img align="left" height="94px" width="94px" alt="Smart Fit" src="https://commons.wikimedia.org/wiki/Special:FilePath/Smart_Fit_logo.svg" />
+<img align="left" height="94px" width="94px" alt="Smart Fit" src="./logo-smart.jpeg" />
 
 **Receptionist** \
 **Smart Fit** \
@@ -45,7 +41,7 @@ Dec 2025 | Present
 </div>
 
 <div align="left" width=200>
-<img align="left" height="94px" width="94px" alt="AACD" src="https://logodownload.org/wp-content/uploads/2018/01/aacd-logo-1.png" />
+<img align="left" height="94px" width="94px" alt="AACD" src="./logo-aacd.png" />
 
 **Young Apprentice** \
 **AACD** \
