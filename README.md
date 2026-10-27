@@ -2,8 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=400&size=28&repeat=true&duration=4000&pause=2000&center=true&color=B59DFF&random=false&width=435&lines=I'm+Eduardo;welcome+to+my+GitHub!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&weight=400&size=28&repeat=true&duration=4000&pause=2000&center=true&color=3B82F6&random=false&width=435&lines=I'm+Eduardo;welcome+to+my+GitHub!)](https://git.io/typing-svg)
 </div>
 
 <p align="center" width="100%">
@@ -14,8 +13,7 @@
 
 <!-- Skills -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=30&duration=0.1&pause=1000&color=B59DFF&center=false&repeat=false&width=435&lines=Skills)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=30&duration=0.1&pause=1000&color=3B82F6&center=false&repeat=false&width=435&lines=Skills)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://skillicons.dev">
     <img width="80%" src="https://skillicons.dev/icons?i=python,react,nodejs,git,java,typescript,js,html,css,mysql" />
@@ -28,8 +26,7 @@
 ##
 
 <!-- Experience --> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=30&duration=0.1&pause=1000&color=B59DFF&center=false&repeat=false&width=435&lines=Experience)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=30&duration=0.1&pause=1000&color=3B82F6&center=false&repeat=false&width=435&lines=Experience)](https://git.io/typing-svg)
 <div align="left" width=200>
 <img align="left" height="94px" width="94px" alt="Smart Fit" src="./assets/logo-gruposmart.png" />
 
