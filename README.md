@@ -54,9 +54,9 @@ Nov 2024 | Nov 2025
 [![Stats](https://readme-typing-svg.herokuapp.com?font=Bitcount&size=30&duration=0.1&pause=1000&color=B59DFF&center=false&repeat=false&width=435&lines=Contributions)](https://git.io/typing-svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camfeitosa/camfeitosa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/camfeitosa/camfeitosa/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/camfeitosa/camfeitosa/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duduutech/duduutech/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duduutech/duduutech/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/duduutech/duduutech/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
